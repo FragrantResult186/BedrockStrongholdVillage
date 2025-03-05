@@ -1,2 +1,2 @@
-# BedrockVillageStronghold
+# BedrockStrongholdVillage
 Generating stronghold village
