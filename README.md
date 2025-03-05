@@ -1,2 +1,2 @@
 # BedrockVillageStronghold
-Find the Bedrock stronghold village position
+Generating stronghold village
